@@ -3,6 +3,7 @@
 const TextCamel = () => {
     return (
         <div className='flex bg-sky-600 w-full h-screen justify-center items-center'>
+            
             <div className='bg-white flex rounded-2xl w-[550px]  p-4 gap-6'>
                 <div className='h-full w-[250px] shrink-0'>
                     <img src="https://cdn.shopify.com/s/files/1/0170/3952/3904/files/cesar-rincon-XHVpWcr5grQ-unsplash.jpg?v=1680164399" className='object-cover w-full h-full' />
